@@ -66,26 +66,22 @@
 
 ## 📸 界面截图 | Screenshots
 
-> **请将你的游戏截图拖拽到下方**（建议：游戏大厅、牌桌对战、俱乐部界面各一张）
+### 游戏大厅
+![游戏大厅](screenshots/01.jpg)
+![游戏大厅2](screenshots/02.jpg)
 
-| 游戏大厅 | 牌桌对战 | 俱乐部界面 |
-|:---:|:---:|:---:|
-![1房间列表](https://github.com/user-attachments/assets/503cfa40-5d00-4204-a34c-a1eb981a433b)
-![4房间2-9人桌](https://github.com/user-attachments/assets/80f42d63-8f8f-450a-9834-bb7264f6bcae)
-![4房间2-6人桌](https://github.com/user-attachments/assets/80fd120f-7033-4529-aa06-e9eb3626465a)
-![03赛事4 - 副本](https://github.com/user-attachments/assets/ca4906ec-4007-481b-9f3f-b5257eaae5ae)
-![02创建1](https://github.com/user-attachments/assets/7ee89da8-2cf1-4092-adc5-37bdc816e351)
-![1管理俱乐部币 - 副本](https://github.com/user-attachments/assets/56d8711c-cc69-43e1-b584-0d22139efe27)
-![牌桌1-2人](https://github.com/user-attachments/assets/3da47d56-5908-4172-b751-a577f4eb0ebd)
-![牌谱记录2](https://github.com/user-attachments/assets/117c5156-df75-4598-a5c5-4b888b19e745)
-![牌谱记录1](https://github.com/user-attachments/assets/970a7291-324b-4ecd-88c5-c5d2863b9d67)
-![聊天](https://github.com/user-attachments/assets/c130c828-6d87-4368-99d6-33a53980c5dc)
-![牌桌4](https://github.com/user-attachments/assets/3f3274cf-15d0-41f1-b443-56b125dc347f)
-![牌桌3](https://github.com/user-attachments/assets/8fc6cbdf-c344-41d1-b3a2-d4126ee50b34)
-![牌桌2](https://github.com/user-attachments/assets/fc659007-25fa-4e8c-b5d5-184f5dc72b76)
-![牌桌1-9人](https://github.com/user-attachments/assets/7383da16-6421-4552-bc55-b6672224a2e5)
-![牌桌1-6人](https://github.com/user-attachments/assets/22b87825-6b58-44db-809a-2b90f4df416f)
+### 牌桌对战
+![牌桌](screenshots/03.jpg)
+![牌桌2](screenshots/04.jpg)
+![牌桌3](screenshots/05.jpg)
 
+### 俱乐部 / 其他界面
+![俱乐部](screenshots/06.jpg)
+![界面](screenshots/08.jpg)
+![界面](screenshots/10.jpg)
+![界面](screenshots/11.jpg)
+![界面](screenshots/12.jpg)
+![界面](screenshots/13.jpg)
 ---
 
 ## 🌐 多语言支持 | Multi-Language Support
