@@ -1,0 +1,42 @@
+#include "/home/tarsproto/XGame/Comm/JFGame.tars"
+#include "/home/tarsproto/XGame/Comm/Java2RoomProto.tars"
+
+module JFGame
+{
+	interface RoomServant
+	{
+		/**
+		 * 处理终端的请求
+		 */
+		int onRequest(long lUin, string sMsgPack, string sCurServrantAddr, TClientParam stClientParam, UserBaseInfoExt stUserBaseInfo);
+
+		/**
+		 * 玩家断线接口
+		 */
+		int onOffline(long lUin, string sRoomID, bool standup);
+
+		/**
+		 * java通知消息
+		 */
+		int notifyRoom(java2room::NotifyRoomReq req);
+
+		/*
+		* 拉取房间奖池数据
+		*/
+		int onLoadPrizePool(string roomid);
+
+		// 俱乐部房间批量加入或退出机器人
+		int onEnterOrExitRoom(java2room::EnterOrExitRoomReq req, out java2room::EnterOrExitRoomResp resp);
+
+		// 俱乐部创建桌子
+		int onCreatePrTable(java2room::CreateTableReq req, out java2room::CreateTableResp resp);
+
+		// 审核申请代入
+		int onRoomAuditApply(java2room::RoomAuditApplyReq req);
+
+		//更新玩家信息
+		int updateUserInfo2Room(long lUin);
+	};
+}; 
+
+
