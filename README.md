@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🃏 德州扑克完整源码 | 德州撲克完整源碼 | 德州源码|Texas Hold'em Complete Source
+# 🃏 德州扑克完整源码 | 德州撲克完整源碼 | 德州源码|德州俱乐部|Texas Hold'em Complete Source
 
 **支持 5 种语言 | 8种玩法 | 线上成功运营**
 
