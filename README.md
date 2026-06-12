@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🃏 德州扑克完整源码 | 德州撲克完整源碼 | 德州私人局|德州源码|德州俱乐部|Texas Hold'em Complete Source
+#  德州扑克完整源码 | 德州撲克完整源碼 | 德州私人局|德州源码|德州俱乐部|Texas Hold'em Complete Source
 
 **支持 5 种语言 | 8种玩法 | 线上成功运营**
 
@@ -132,7 +132,9 @@ A：提供。购买后可远程协助部署。
 
 **如果这个项目对你有帮助，欢迎点个 Star 支持一下！**  
 ⭐️ **Star** ⭐️
-
+<p align="center">
+  <i>Texas Hold'em source code | 德州扑克源码 | mã nguồn poker | 홀덤 소스 코드 | poker game source | club system source</i>
+</p>
 </div>
 
 # M-ngu-n-Texas-Hold-em
